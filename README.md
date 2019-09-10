@@ -12,3 +12,7 @@ Foram vistos alguns objetos do R, tais como: vetores, fatores, listas e data fra
 
 - [Objetos R](https://github.com/yanmartins/CursoR/tree/master/introducao)
 - [Explorando dados (ex1)](https://github.com/yanmartins/CursoR/tree/master/ex1_diagnostico)
+
+### 10/set/2019
+
+
