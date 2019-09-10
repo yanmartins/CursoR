@@ -1,2 +1,11 @@
-# CursoR
-Curso de Aplicação de Técnicas de Aprendizagem de Máquina utilizando R do IFSC, campus São José
+**Instituto Federal de Santa Catarina**
+
+# Curso de Introdução ao R
+
+Repositório para uso durante o curso de extensão de Aplicação de Técnicas de Aprendizagem de Máquina utilizando R do Instituto Federal de Santa Catarina - câmpus São José, realizada em 2019.2
+
+# Aulas
+
+### 09/set/2019
+
+
