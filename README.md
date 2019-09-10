@@ -10,4 +10,4 @@ Repositório para uso durante o curso de extensão de Aplicação de Técnicas d
 
 Foram vistos alguns objetos do R, tais como: vetores, fatores, listas e data frames
 
-[Introdução](https://github.com/yanmartins/CursoR/tree/master/introducao)
+- [Objetos R](https://github.com/yanmartins/CursoR/tree/master/introducao)
