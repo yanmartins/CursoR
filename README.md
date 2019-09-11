@@ -13,6 +13,9 @@ Foram vistos alguns objetos do R, tais como: vetores, fatores, listas e data fra
 - [Objetos R](https://github.com/yanmartins/CursoR/tree/master/introducao)
 - [Explorando dados (ex1)](https://github.com/yanmartins/CursoR/tree/master/ex1_diagnostico)
 
+
 ### 10/set/2019
 
+Regressão linear simples e múltipla. Correlação e multicolinearidade entre variáveis.
 
+- [Predição de despesas médicas (ex2)](https://github.com/yanmartins/CursoR/tree/master/ex2_predicao_despesas)
