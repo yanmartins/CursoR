@@ -43,6 +43,8 @@ teen_clusters <- kmeans(interest_z, 5)
 # Quantidade de adolescentes em cada cluster
 teen_clusters$size
 
-
 teen_clusters$centers
 
+teens$cluster <- teen_clusters$cluster
+
+teens[1:5, c("cluster", "gender", "age", "friends")]
