@@ -29,3 +29,5 @@ Clustering, técnica que busca dividir automaticamente o conjunto de dados em gr
 
 - [Identificando segmentos de mercado para adolescentes utilizando o k-means (ex4)](https://github.com/yanmartins/CursoR/tree/master/ex4_adolescentes)
 - [Filtro de spam em SMS para celular (ex5)](https://github.com/yanmartins/CursoR/tree/master/ex5_SMS_celular)
+- [Modelando a resistência de concreto (ex6)](https://github.com/yanmartins/CursoR/tree/master/ex6_redes_neurais)
+- [Reconhecimento ótico de caracteres com SVM (ex6)](https://github.com/yanmartins/CursoR/tree/master/ex6_redes_neurais)
